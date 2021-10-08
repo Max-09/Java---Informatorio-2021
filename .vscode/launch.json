@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ejercicio9",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio9",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio8",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio7",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio6",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio5",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio4",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio3",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio1",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel1.Ejercicio2",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        }
+    ]
+}
