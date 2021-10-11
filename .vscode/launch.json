@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ejercicio7",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio7",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio6",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio6",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio5",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio5",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio4",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio4",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio3",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio3",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio2",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio2",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio1",
+            "request": "launch",
+            "mainClass": "EjerciciosComplementariosLevel2.Ejercicio1",
+            "projectName": "Java---Informatorio-2021_2a449fce"
+        },
+        {
+            "type": "java",
             "name": "Launch Ejercicio9",
             "request": "launch",
             "mainClass": "EjerciciosComplementariosLevel1.Ejercicio9",
