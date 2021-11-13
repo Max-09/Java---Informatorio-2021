@@ -1,4 +1,4 @@
-package EjerciciosComplementariosLevel2;
+package ejercicioscomplementarioslevel2;
 
 public class Ciudad {
     private String nombre;
